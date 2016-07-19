@@ -44,7 +44,10 @@ Here are resources that cover many personal finance topics.
 
 [Personal Finance Reddit](https://www.reddit.com/r/personalfinance/wiki/commontopics)
 
+[Becoming Self Made](http://becomingselfmade.com/)
+
 ### Books
+[Self Made: Becoming Empowered, Self-Reliant, and Rich in Every Way](https://www.amazon.com/Self-Made-Becoming-Empowered-Self-Reliant/dp/0812989759?ie=UTF8&camp=1789&creative=9325&creativeASIN=0812989759&linkCode=as2&linkId=KZXZFWCTS4O6QBMV&redirect=true&ref_=as_li_tl&tag=wwwbecomingse-20)
 
 [The Complete Idiot's Guide to Personal Finance inYour 20s & 30s by Sarah Fisher](http://www.amazon.com/gp/product/1592578837?ie=UTF8&tag=fastweb-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1592578837)
 
@@ -61,6 +64,9 @@ Here are resources that cover many personal finance topics.
 
 
 ### Services/Apps
+[You Need a Budget](https://www.youneedabudget.com/)
+
+[Prosper Daily](https://www.prosper.com/daily)
 
 [Nerd Wallet](http://www.nerdwallet.com)
 

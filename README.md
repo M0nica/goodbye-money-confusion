@@ -64,7 +64,6 @@ Here are resources that cover many personal finance topics.
 
 
 ### Services/Apps
-[You Need a Budget](https://www.youneedabudget.com/)
 
 [Prosper Daily](https://www.prosper.com/daily)
 
